@@ -1,0 +1,12 @@
+.bg_img{
+    background-image: url("bg1.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+    padding-top: 300px;
+}
+.fb_buts{
+    background-image: url("facebook.png");
+    height: 100px;
+}
